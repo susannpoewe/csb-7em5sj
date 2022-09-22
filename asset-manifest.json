@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://susannpoewe.github.io/csb-7em5sj/static/css/main.c918ec0e.chunk.css",
+    "main.js": "https://susannpoewe.github.io/csb-7em5sj/static/js/main.d9865c84.chunk.js",
+    "main.js.map": "https://susannpoewe.github.io/csb-7em5sj/static/js/main.d9865c84.chunk.js.map",
+    "runtime-main.js": "https://susannpoewe.github.io/csb-7em5sj/static/js/runtime-main.4783aa3b.js",
+    "runtime-main.js.map": "https://susannpoewe.github.io/csb-7em5sj/static/js/runtime-main.4783aa3b.js.map",
+    "static/js/2.124f899e.chunk.js": "https://susannpoewe.github.io/csb-7em5sj/static/js/2.124f899e.chunk.js",
+    "static/js/2.124f899e.chunk.js.map": "https://susannpoewe.github.io/csb-7em5sj/static/js/2.124f899e.chunk.js.map",
+    "index.html": "https://susannpoewe.github.io/csb-7em5sj/index.html",
+    "static/css/main.c918ec0e.chunk.css.map": "https://susannpoewe.github.io/csb-7em5sj/static/css/main.c918ec0e.chunk.css.map",
+    "static/js/2.124f899e.chunk.js.LICENSE.txt": "https://susannpoewe.github.io/csb-7em5sj/static/js/2.124f899e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4783aa3b.js",
+    "static/js/2.124f899e.chunk.js",
+    "static/css/main.c918ec0e.chunk.css",
+    "static/js/main.d9865c84.chunk.js"
+  ]
+}
